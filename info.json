@@ -1,0 +1,13 @@
+{
+  "version": "1.0.27",
+  "projectName": "libusb-bin",
+  "projectDescription": "A cross-platform library to access USB devices.",
+  "vendor": "Björn Stresing",
+  "contact": "bjoern.stresing@gmx.de",
+  "domain": "com.github.tereius",
+  "copyrightYear": "2024",
+  "repository": "https://github.com/Tereius/conan-libusb-bin",
+  "topics": ["libusb", "usb"],
+  "homepage": "https://libusb.info/",
+  "license": "LGPL"
+}

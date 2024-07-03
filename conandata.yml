@@ -1,0 +1,6 @@
+sources:
+  "1.0.27":
+    "Windows":
+      url: "https://sourceforge.net/projects/libusb/files/libusb-1.0/libusb-1.0.27/libusb-1.0.27.7z/download?use_mirror=autoselect#"
+      sha1: "9e4e6784819fa9907238a1802149c51a214d37be"
+      filename: "libusb.7z"
